@@ -2,7 +2,7 @@
 
 WebSite Link - 
 
-## Initial Task
+## Initial
 - Context API
 - Mapping each news to a news Card
 - Displaying each news in card
