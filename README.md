@@ -1,6 +1,6 @@
 
 
-WebSite Link - 
+WebSite Link - https://simple-news-app.vercel.app/
 
 ## Initial
 - Context API
@@ -9,9 +9,8 @@ WebSite Link -
 
 ## Dependencies: 
 - React
-- Axios
+- Styled Components
 
 ```
 import React, { createContext, useEffect, useState } from "react";
-import axios from "axios";
 ```
