@@ -1,18 +1,9 @@
 import React from "react";
-import { NewsContextProvider } from "./NewsContext";
-import News from "./Components/News";
+import Home from "./Screens/Home";
 import "./app.css";
-import Navbar from "./Components/Navbar";
 
 function App() {
-  return (
-    <div>
-      <Navbar></Navbar>
-      <NewsContextProvider>
-        <News />
-      </NewsContextProvider>
-    </div>
-  );
+  return <Home />;
 }
 
 export default App;
